@@ -1,0 +1,6 @@
+{
+  “版本”： 2，
+  “路线”：[
+      { “ src ”：“ /(.*）”，“ dest ”：“https://ernofe.herokuapp.com/$1 ” }
+  ]
+}
